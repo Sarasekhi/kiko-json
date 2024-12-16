@@ -1,0 +1,1085 @@
+{
+  "Header": [
+    {
+      "kikoimage": "./images/default-og-image.png"
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "title": "آرایشی",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": "آرایش چشم",
+          "link": "#",
+          "dropdown": [
+            {
+              "id": 1,
+              "title": "خط چشم",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 2,
+              "title": "مداد چشم",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 3,
+              "title": " ریمل",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 4,
+              "title": " سایه چشم",
+              "link": "#",
+              "dropdown": []
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "آرایش لب",
+          "link": "#",
+          "dropdown": [
+            {
+              "id": 1,
+              "title": " رژ لب",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 2,
+              "title": " خط لب",
+              "link": "#",
+              "dropdown": []
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "آرایش صورت",
+          "link": "#",
+          "dropdown": [
+            {
+              "id": 1,
+              "title": " کانسیلر",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 2,
+              "title": " روشن کننده",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 3,
+              "title": " کرم پودر",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 4,
+              "title": " پرایمر",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 5,
+              "title": " فیکسر آرایش",
+              "link": "#",
+              "dropdown": []
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "دست ها ",
+          "link": "#",
+          "dropdown": [
+            {
+              "id": 1,
+              "title": " لاک ناخن ",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 2,
+              "title": "فیکسر لاک ناخن ",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 3,
+              "title": "فرنچ ناخن ",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 4,
+              "title": "پاک کننده لاک ناخن ",
+              "link": "#",
+              "dropdown": []
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "پالت ها ",
+          "link": "#",
+          "dropdown": [
+            {
+              "id": 1,
+              "title": " پالت لب ",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 2,
+              "title": "پالت صورت ",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 3,
+              "title": "پالت جشم  ",
+              "link": "#",
+              "dropdown": []
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "کالکشن ها ",
+          "link": "#",
+          "dropdown": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "مراقبت از پوست",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": " صورت",
+          "link": "#",
+          "dropdown": [
+            {
+              "id": 1,
+              "title": "آبرسان پوست",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 2,
+              "title": " ماسک صورت",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 3,
+              "title": " کرم ضد جوش",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 4,
+              "title": "پاک کننده آرایش",
+              "link": "#",
+              "dropdown": []
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": " لب ها",
+          "link": "#",
+          "dropdown": [
+            {
+              "id": 1,
+              "title": " مراقبت از لب  ",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 2,
+              "title": " بالم لب  ",
+              "link": "#",
+              "dropdown": []
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "دست ها و پاها",
+          "link": "#",
+          "dropdown": [
+            {
+              "id": 1,
+              "title": " کرم دست  ",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 2,
+              "title": " مراقبت از پا  ",
+              "link": "#",
+              "dropdown": []
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "عطر",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 5,
+          "title": "مراقبت از مو",
+          "link": "#",
+          "dropdown": [
+            {
+              "id": 1,
+              "title": "شامپو",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 2,
+              "title": "حالت دهنده",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 3,
+              "title": "ماسک",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 4,
+              "title": "اسپری",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 5,
+              "title": "سرم",
+              "link": "#",
+              "dropdown": []
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "کیت ها",
+          "link": "#",
+          "dropdown": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "محافظت از آفتاب",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": "محافظت از آفتاب",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 2,
+          "title": "محافظت بعد از آفتاب",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 3,
+          "title": "برنزه کننده ها",
+          "link": "#",
+          "dropdown": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "اکسسوری ها",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": " اکسسوری های صورت",
+          "link": "#",
+          "dropdown": [
+            {
+              "id": 1,
+              "title": "پد آرایش و آینه",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 2,
+              "title": "پد پاک کننده",
+              "link": "#",
+              "dropdown": []
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": " اکسسوری های چشم",
+          "link": "#",
+          "dropdown": [
+            {
+              "id": 1,
+              "title": "فر کننده مژه",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 2,
+              "title": "مژه مصنوعی",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 3,
+              "title": "تراش مداد چشم",
+              "link": "#",
+              "dropdown": []
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": " اکسسوری های مراقبت از دست",
+          "link": "#",
+          "dropdown": [
+            {
+              "id": 1,
+              "title": "پاک کننده لاک ناخن",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 2,
+              "title": "ست مانیکور",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 3,
+              "title": "فیکساتیو لاک ناخن",
+              "link": "#",
+              "dropdown": []
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "بطری های مسافرتی",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 5,
+          "title": "بسته های آرایشی",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 6,
+          "title": "براش های آرایشی ",
+          "link": "#",
+          "dropdown": [
+            {
+              "id": 1,
+              "title": "براش صورت",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 2,
+              "title": "براش چشم",
+              "link": "#",
+              "dropdown": []
+            },
+            {
+              "id": 3,
+              "title": "براش لب",
+              "link": "#",
+              "dropdown": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "جدید ",
+      "link": "#",
+      "image": "./images/services/services (1).webp",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": "در آفتاب خوش بگذرون",
+          "link": "#",
+          "image": "./images/new/new (1).webp",
+          "dropdown": []
+        },
+        {
+          "id": 2,
+          "title": "بازتاب طلایی",
+          "link": "#",
+          "image": "./images/new/new (2).webp",
+          "dropdown": []
+        },
+        {
+          "id": 3,
+          "title": "بریجرتون",
+          "link": "#",
+          "image": "./images/new/new (3).webp",
+          "dropdown": []
+        },
+        {
+          "id": 4,
+          "title": "امکان های نامحدود",
+          "link": "#",
+          "image": "./images/new/new (4).webp",
+          "dropdown": []
+        },
+        {
+          "id": 5,
+          "title": "پاکیزگی زلال",
+          "link": "#",
+          "image": "./images/new/new (5).webp",
+          "dropdown": []
+        },
+        {
+          "id": 6,
+          "title": "پدهای سایه چشم با رنگ های جذاب",
+          "link": "#",
+          "image": "./images/new/new (6).webp",
+          "dropdown": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "پرفروش ترین ها ",
+      "link": "#",
+      "dropdown": []
+    },
+    {
+      "id": 6,
+      "title": "خدمات",
+      "link": "#",
+      "image": "./images/services/services (1).webp",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": " گیفت کارت",
+          "link": "#",
+          "image": "./images/services/services (1).webp",
+          "dropdown": []
+        },
+        {
+          "id": 2,
+          "title": "آموزش ها",
+          "link": "#",
+          "image": "./images/services/services (2).webp",
+          "dropdown": []
+        },
+        {
+          "id": 3,
+          "title": "ایده های هدیه ",
+          "link": "#",
+          "image": "./images/services/services (3).webp",
+          "dropdown": []
+        },
+        {
+          "id": 4,
+          "title": "رژ لب خود را شخصی سازی کن",
+          "link": "#",
+          "image": "./images/services/services (4).webp",
+          "dropdown": []
+        },
+        {
+          "id": 5,
+          "title": "خدمات زیبایی کیکو",
+          "link": "#",
+          "image": "./images/services/services (5).webp",
+          "dropdown": []
+        }
+      ]
+    }
+  ],
+  "firstswiper": [
+    {
+      "id": 1,
+      "firstlink": "#",
+      "secondlink": "#",
+      "firsttitle": "بازتابی از طلا",
+      "secondtitle": "نسخه محدود",
+      "thirdtitle": "بدرخش",
+      "smimage": "./images/first swiper/first swiper (1).jpg",
+      "mdimage": "./images/first swiper/first swiper (5).webp",
+      "botton": "از دست نده",
+      "alt": "بازتابی از طلا",
+      "left": false
+    },
+    {
+      "id": 2,
+      "firstlink": "#",
+      "secondlink": "#",
+      "firsttitle": "امکانات نامحدود",
+      "secondtitle": "",
+      "thirdtitle": "Unlimited Double Touch",
+      "smimage": "./images/first swiper/first swiper (2).jpeg",
+      "mdimage": "./images/first swiper/first swiper (6).webp",
+      "botton": "از دست نده",
+      "alt": "Unlimited Double Touch",
+      "left": false
+    },
+    {
+      "id": 3,
+      "firstlink": "#",
+      "secondlink": "#",
+      "firsttitle": "در آفتاب",
+      "secondtitle": "خوش بگذرون",
+      "thirdtitle": "با محصولات مخصوص آفتاب، از تابستان بیشترین لذت رو ببر",
+      "smimage": "./images/first swiper/first swiper (3).jpeg",
+      "mdimage": "./images/first swiper/first swiper (7).webp",
+      "botton": "از دست نده",
+      "alt": " آفتاب",
+      "left": true
+    },
+    {
+      "id": 4,
+      "firstlink": "#",
+      "secondlink": "#",
+      "firsttitle": "حراج",
+      "secondtitle": "20% 30% 40% 50%",
+      "thirdtitle": "",
+      "smimage": "./images/first swiper/first swiper (4).jpg",
+      "mdimage": "./images/first swiper/first swiper (8).webp",
+      "botton": "از دست نده",
+      "alt": "حراج",
+      "left": true
+    }
+  ],
+  "newsSwiper": [
+    {
+      "id": 1,
+      "firstlink": "#",
+      "secondlink": "#",
+      "firsttitle": "پاک و شفاف",
+      "secondtitle": "تایید شده توسط متخصصین پوست برای پاکیزگی بیشتر",
+      "smimage": "./images/news swiper/smimg (1).webp",
+      "mdimage": "./images/news swiper/mdimg (1).webp",
+      "proimg": "./images/news swiper/1.webp",
+      "botton": "الان بخر",
+      "alt": "پوست شفاف"
+    },
+    {
+      "id": 2,
+      "firstlink": "#",
+      "secondlink": "#",
+      "firsttitle": "کلکسیون بریجرتون",
+      "secondtitle": "الهام گرفته شده از سریال های نتفلیکس",
+      "smimage": "./images/news swiper/smimg (2).webp",
+      "mdimage": "./images/news swiper/mdimg (2).webp",
+      "proimg": "./images/news swiper/2.webp",
+      "botton": "الان بخر",
+      "alt": "بریجرتون"
+    },
+    {
+      "id": 3,
+      "firstlink": "#",
+      "secondlink": "#",
+      "firsttitle": "سرعت رشد موهایت را بالا ببر",
+      "secondtitle": "با کیکو میلانو",
+      "smimage": "./images/news swiper/smimg (4).webp",
+      "mdimage": "./images/news swiper/mdimg (4).webp",
+      "proimg": "./images/news swiper/4.webp",
+      "botton": "الان بخر",
+      "alt": "رشد مو"
+    },
+    {
+      "id": 4,
+      "firstlink": "#",
+      "secondlink": "#",
+      "firsttitle": "چشم هایت اینقدر جذاب نبوده اند",
+      "secondtitle": "دوام 24 ساعته",
+      "smimage": "./images/news swiper/smimg (3).webp",
+      "mdimage": "./images/news swiper/mdimg (3).webp",
+      "proimg": "./images/news swiper/3.webp",
+      "botton": "الان بخر",
+      "alt": "سایه چشم"
+    },
+    {
+      "id": 5,
+      "firstlink": "#",
+      "secondlink": "#",
+      "firsttitle": "براق کننده لب سه بعدی",
+      "secondtitle": "لب هایت را به بعدی دیگر ببر",
+      "smimage": "./images/news swiper/smimg (5).webp",
+      "mdimage": "./images/news swiper/mdimg (5).webp",
+      "proimg": "./images/news swiper/5.webp",
+      "botton": "الان بخر",
+      "alt": " یراق کننده لب"
+    }
+  ],
+  "trendSwiper": [
+    {
+      "id": 1,
+      "offer": false,
+      "mainimg": "./images/trend swiper/frstimg (1).webp",
+      "hvrimg": "./images/trend swiper/scndimg (1).webp",
+      "link": "#",
+      "botton": "#",
+      "colors": [],
+      "title": "",
+      "maintitle": "روغن شفاف کننده بعد از آفتاب",
+      "star": [
+        {
+          "star": 1,
+          "count": 0
+        },
+        {
+          "star": 2,
+          "count": 0
+        },
+        {
+          "star": 3,
+          "count": 0
+        },
+        {
+          "star": 4,
+          "count": 0
+        },
+        {
+          "star": 5,
+          "count": 1
+        }
+      ],
+      "totalcount": 1,
+      "price": 200000,
+      "discount": "",
+      "percent":false
+    },
+    {
+      "id": 2,
+      "offer": true,
+      "mainimg": "./images/trend swiper/frstimg (2).webp",
+      "hvrimg": "./images/trend swiper/scndimg (2).webp",
+      "link": "#",
+      "botton": "#",
+      "colors": [],
+      "title": "ژل فیکس کننده ابروی  براق",
+      "maintitle": "ژل ریمل حالت دهنده ابرو",
+      "star": [
+        {
+          "star": 1,
+          "count": 2
+        },
+        {
+          "star": 2,
+          "count": 1
+        },
+        {
+          "star": 3,
+          "count": 4
+        },
+        {
+          "star": 4,
+          "count": 9
+        },
+        {
+          "star": 5,
+          "count": 20
+        }
+      ],
+      "totalcount": 36,
+      "price": 300000,
+      "discount": 20,
+      "percent":true
+
+    },
+    {
+      "id": 3,
+      "offer": true,
+      "mainimg": "./images/trend swiper/frstimg (3).webp",
+      "hvrimg": "./images/trend swiper/scndimg (3).webp",
+      "link": "#",
+      "botton": "#",
+      "colors": [
+        {
+          "id": 1,
+          "color": "./images/trend swiper/3 (1).png"
+        },
+        {
+          "id": 2,
+          "color": "./images/trend swiper/3 (2).png"
+        },
+        {
+          "id": 3,
+          "color": "./images/trend swiper/3 (3).png"
+        },
+        {
+          "id": 4,
+          "color": "./images/trend swiper/3 (4).png"
+        },
+        {
+          "id": 5,
+          "color": "./images/trend swiper/3 (5).png"
+        },
+        {
+          "id": 6,
+          "color": "./images/trend swiper/3 (6).png"
+        },
+        {
+          "id": 7,
+          "color": "./images/trend swiper/3 (7).jpg"
+        }
+      ],
+      "title": "",
+      "maintitle": "ریمل مات کننده ابرو",
+      "star": [
+        {
+          "star": 1,
+          "count": 2
+        },
+        {
+          "star": 2,
+          "count": 1
+        },
+        {
+          "star": 3,
+          "count": 4
+        },
+        {
+          "star": 4,
+          "count": 5
+        },
+        {
+          "star": 5,
+          "count": 7
+        }
+      ],
+      "totalcount": 19,
+      "price": 350000,
+      "discount": 30,
+      "percent":true
+
+    },
+    {
+      "id": 4,
+      "offer": false,
+      "mainimg": "./images/trend swiper/frstimg (4).webp",
+      "hvrimg": "./images/trend swiper/scndimg (4).webp",
+      "link": "#",
+      "botton": "#",
+      "colors": [
+        {
+          "id": 1,
+          "color": "./images/trend swiper/4 (1).webp"
+        },
+        {
+          "id": 2,
+          "color": "./images/trend swiper/4 (1).webp"
+        }
+      ],
+      "title": "خط چشم ژلی",
+      "maintitle": "خط چشم براق",
+      "star": [
+        {
+          "star": 1,
+          "count": 0
+        },
+        {
+          "star": 2,
+          "count": 3
+        },
+        {
+          "star": 3,
+          "count": 6
+        },
+        {
+          "star": 4,
+          "count": 15
+        },
+        {
+          "star": 5,
+          "count": 80
+        }
+      ],
+      "totalcount": 104,
+      "price": 550000,
+      "discount": "",
+      "percent":false
+
+    },
+    {
+      "id": 5,
+      "offer": true,
+      "mainimg": "./images/trend swiper/frstimg (5).webp",
+      "hvrimg": "./images/trend swiper/scndimg (5).webp",
+      "link": "#",
+      "botton": "#",
+      "colors": [],
+      "title": "",
+      "maintitle": "مداد وکس فیکس کننده ابرو",
+      "star": [
+        {
+          "star": 1,
+          "count": 2
+        },
+        {
+          "star": 2,
+          "count": 1
+        },
+        {
+          "star": 3,
+          "count": 2
+        },
+        {
+          "star": 4,
+          "count": 15
+        },
+        {
+          "star": 5,
+          "count": 25
+        }
+      ],
+      "totalcount": 45,
+      "price": 400000,
+      "discount": 20,
+      "percent":true
+
+    }
+  ],
+  "sustainbility": [
+    {
+      "maintitle": "رویکرد کیکو برای حفظ محیط زیست",
+      "discription": "مسئولیت اجتماعی کیکو میلانو، حفاظت از زمین و مردم",
+      "botton": "نمایش بیشتر",
+      "image": "./images/sustainability.webp",
+      "link": "#"
+    }
+  ],
+  "currenttrend": [
+    {
+      "id": 1,
+      "mainlink": "#",
+      "bottonlink": "#",
+      "firstttl": "آموزش و چگونگی",
+      "secondttl": "",
+      "botton": "بیشتر",
+      "smimage": "./images/currently trending/currenttrend (1).webp",
+      "mdimage": "./images/currently trending/currenttrendmd (1).webp",
+      "proimg": "./images/currently trending/1.webp",
+      "alt": "آموزش"
+    },
+    {
+      "id": 2,
+      "mainlink": "#",
+      "bottonlink": "#",
+      "firstttl": "ایده های هدیه",
+      "secondttl": "پکیج های عالی جهت هدیه در مناسبت های مختلف",
+      "botton": "خرید",
+      "smimage": "./images/currently trending/currenttrend (2).webp",
+      "mdimage": "./images/currently trending/currenttrendmd (2).webp",
+      "proimg": "./images/currently trending/2.webp",
+      "alt": "هدیه"
+    },
+    {
+      "id": 3,
+      "mainlink": "#",
+      "bottonlink": "#",
+      "firstttl": "پیدا کردن رنگ مناسب پوست",
+      "secondttl": "در 5 مرحله ساده رنگ پایه پوست خود را پیدا کن",
+      "botton": "بیشتر",
+      "smimage": "./images/currently trending/currenttrend (3).webp",
+      "mdimage": "./images/currently trending/currenttrendmd (3).webp",
+      "proimg": "./images/currently trending/3.webp",
+      "alt": "پوست"
+    }
+  ],
+  "kikois": [
+    {
+      "id": 1,
+      "link": "#",
+      "image": "./images/kiko is/kiko is (1).webp",
+      "toptitle": "رنگ",
+      "title": "به زندگی ات رنگ ببخش",
+      "description": "رنگ بسیار سریع تاثیر می گذارد و این چیزی است که کیکو به آن توجه دارد."
+    },
+    {
+      "id": 2,
+      "link": "#",
+      "image": "./images/kiko is/kiko is (2).webp",
+      "toptitle": "نوآوری",
+      "title": "تغییر زیباست",
+      "description": "کیکو دائما مسیر خود را در جهت تولید محصولات انحصاری تغییر می دهد."
+    },
+    {
+      "id": 3,
+      "link": "#",
+      "image": "./images/kiko is/kiko is (3).webp",
+      "toptitle": "ماموریت",
+      "title": "بی نظیر نباش ولی بدرخش",
+      "description": "کیکو همیشه به یک موضوع تاکید دارد: به همه خانم ها امکان استفاده از بروزترین محصولات آرایشی را می دهد."
+    },
+    {
+      "id": 4,
+      "link": "#",
+      "image": "./images/kiko is/kiko is (4).webp",
+      "toptitle": "ایمنی",
+      "title": "ضمانت اجرایی",
+      "description": "در آزمایشگاه های کیکو محصولات بسیار دقیق کنترل می شوند تا اطمینان حاصل شود که امن و قابل اعتماد هستند."
+    }
+  ],
+  "aboutkiko": [
+    {
+      "link": "#",
+      "image": "./images/kiko milano banner.jpg",
+      "title": "کیکو میلانو",
+      "description": "بهترین محصولات را برای آرایش صورت، چشم ها و لب های خود پیدا کن. از پوست خود با محصولات حرفه ای مراقبت کن. کیفیت روتین زیبایی پوست خود را با محصولات آرایشی نوآورانه بالا ببر."
+    }
+  ],
+  "account": [
+    {
+      "id": 1,
+      "icon": "./images/purchase part/kiko logo.png",
+      "title": "الان ثبت نام کن",
+      "subtitle": "تا از مزایای بیشتر بهره&nbsp;مند شوی"
+    },
+    {
+      "id": 2,
+      "icon": "./images/purchase part/services.png",
+      "title": "ارسال به صرفه",
+      "subtitle": "با درخواست بیش از یک میلیون تومان"
+    },
+    {
+      "id": 3,
+      "icon": "./images/purchase part/purchase.png",
+      "title": "پرداخت امن",
+      "subtitle": "پرداخت&nbsp;ها امن هستند"
+    },
+    {
+      "id": 4,
+      "icon": "./images/purchase part/easyreturn.png",
+      "title": "عودت آسان",
+      "subtitle": "تا 14 روز پس از سفارش"
+    }
+  ],
+  "register": [
+    {
+      "image": "./images/footer.jpg",
+      "title": "ثبت نام خبرنامه",
+      "description": "برای اطلاع از آخرین اخبار درباره محصولات الان ثبت نام کنید! از تخفیف 10% در اولین خرید خود با مبلغ بالای 150000 بهره مند شوید.",
+      "checkbox": "من اعلام می کنم که 16 سال یا بیشتر هستم و درخواست دریافت خبرنامه را دارم و رضایت خود را به ارسال ایمیل با ارتباطات بازاریابی همانطور که در یادداشت اطلاعاتی مشخص شده است می دهم.",
+      "botton": "ارسال"
+    }
+  ],
+  "footermenu": [
+    {
+      "id": 1,
+      "title": "راهنمایی",
+      "link": "#",
+      "submenu": [
+        {
+          "id": 1,
+          "title": "FAQs",
+          "link": "#"
+        },
+        {
+          "id": 2,
+          "title": "پیگیری سفارش",
+          "link": "#"
+        },
+        {
+          "id": 3,
+          "title": "اطلاعات و هزینه ارسال",
+          "link": "#"
+        },
+        {
+          "id": 4,
+          "title": "شرایط فروش",
+          "link": "#"
+        },
+        {
+          "id": 5,
+          "title": "شرایط پرداخت",
+          "link": "#"
+        },
+        {
+          "id": 6,
+          "title": "پرداخت امن",
+          "link": "#"
+        },
+        {
+          "id": 7,
+          "title": "حفظ حریم خصوصی",
+          "link": "#"
+        },
+        {
+          "id": 8,
+          "title": "درباره شکایات",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "برند",
+      "link": "#",
+      "submenu": []
+    },
+    {
+      "id": 3,
+      "title": "حفظ محیط زیست",
+      "link": "#",
+      "submenu": []
+    },
+    {
+      "id": 4,
+      "title": "کشور خود را انتخاب کن",
+      "link": "",
+      "submenu": []
+    }
+  ],
+  "socialnetwork": [
+    {
+      "id": 1,
+      "icon": "fa-brands fa-facebook-square",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "icon": "fa-brands fa-instagram-square",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "icon": "fa-brands fa-twitter-square",
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "icon": "fa-brands fa-youtube-square",
+      "link": "#"
+    }
+  ]
+}
